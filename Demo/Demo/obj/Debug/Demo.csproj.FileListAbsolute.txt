@@ -1,0 +1,10 @@
+D:\learnsomething\workspace\Demo\Demo\bin\Debug\Demo.exe.config
+D:\learnsomething\workspace\Demo\Demo\bin\Debug\Demo.exe
+D:\learnsomething\workspace\Demo\Demo\bin\Debug\Demo.pdb
+D:\learnsomething\workspace\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\learnsomething\workspace\Demo\Demo\obj\Debug\Demo.Form1.resources
+D:\learnsomething\workspace\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\learnsomething\workspace\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\learnsomething\workspace\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\learnsomething\workspace\Demo\Demo\obj\Debug\Demo.exe
+D:\learnsomething\workspace\Demo\Demo\obj\Debug\Demo.pdb
